@@ -1,6 +1,6 @@
 # Klovy Chat's GitHub Organisation
 
-**Klovy Chat** is a communication platform by **Klovy Systems** — chats, channels, voice, and a desktop app.
+**Klovy Chat** is a communication platform — chats, channels, voice, and a desktop app.
 
 Source is public under the [Klovy License](https://github.com/klovy-chat/backend/blob/main/LICENSE) (personal, educational, and non-commercial use).
 
@@ -13,7 +13,7 @@ Source is public under the [Klovy License](https://github.com/klovy-chat/backend
 - ### [⬇ Downloads](https://klovy.chat/download): Desktop builds for Windows, macOS, and Linux.
 - ### [🛟 Support](https://klovy.chat/support): Help with using Klovy Chat.
 - ### [📰 Blog](https://klovy.chat/blog): Product news and updates.
-- ### [👥 Team](https://klovy.chat/team): People behind Klovy Systems.
+- ### [👥 Team](https://klovy.chat/team): People behind Klovy Chat.
 - ### [ℹ️ About](https://klovy.chat/about): What Klovy Chat is.
 
 ## Repositories
@@ -24,8 +24,8 @@ Clients maintained under this organisation:
 
 | Repository | Description | Maintainer(s) | Fit For Use |
 | ---------- | ----------- | :-----------: | :---------: |
-| [frontend](https://github.com/klovy-chat/frontend) | React + Vite web app (`app.klovy.chat`) | [klovy-chat](https://github.com/klovy-chat) | ✅ |
-| [application](https://github.com/klovy-chat/application) | Tauri desktop app (Windows, macOS, Linux) | [klovy-chat](https://github.com/klovy-chat) | ✅ |
+| [frontend](https://github.com/klovy-chat/frontend) | React + Vite web app (`app.klovy.chat`) | [@Klovy06](https://github.com/Klovy06) | ✅ |
+| [application](https://github.com/klovy-chat/application) | Tauri desktop app (Windows, macOS, Linux) | [@Klovy06](https://github.com/Klovy06) | ✅ |
 
 ### Server
 
@@ -33,16 +33,20 @@ Core service that powers Klovy Chat:
 
 | Repository | Description | Maintainer(s) |
 | ---------- | ----------- | :-----------: |
-| [backend](https://github.com/klovy-chat/backend) | Rust API and WebSocket server | [klovy-chat](https://github.com/klovy-chat) |
+| [backend](https://github.com/klovy-chat/backend) | Rust API and WebSocket server | [@Klovy06](https://github.com/Klovy06) |
 
 ### Everything Else
 
 | Repository | Description | Maintainer(s) |
 | ---------- | ----------- | :-----------: |
-| [website](https://github.com/klovy-chat/website) | Landing page, blog, downloads (`klovy.chat`) | [klovy-chat](https://github.com/klovy-chat) |
+| [website](https://github.com/klovy-chat/website) | Landing page, blog, downloads (`klovy.chat`) | [@Klovy06](https://github.com/Klovy06) |
 
 ## Contributing
 
 Issues and pull requests are welcome. By submitting a contribution you accept the [Klovy License](https://github.com/klovy-chat/backend/blob/main/LICENSE) (including contribution terms).
 
 Do not open a public issue for security bugs — use [GitHub Security Advisories](https://github.com/klovy-chat/backend/security/advisories/new).
+
+## License
+
+[Klovy License](https://github.com/klovy-chat/backend/blob/main/LICENSE) © 2026 [Jakub Maksymowicz](https://github.com/Klovy06).
