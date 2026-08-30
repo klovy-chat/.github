@@ -9,7 +9,6 @@ Source is public under the [Klovy License](https://github.com/klovy-chat/backend
 ## Quick Links
 
 - ### [🌍 Website](https://klovy.chat): Official Klovy Chat website.
-- ### [🏢 Klovy Systems](https://klovy.systems/): Company site.
 - ### [💬 Open the app](https://app.klovy.chat): Use Klovy Chat in the browser.
 - ### [⬇ Downloads](https://klovy.chat/download): Desktop builds for Windows, macOS, and Linux.
 - ### [🛟 Support](https://klovy.chat/support): Help with using Klovy Chat.
