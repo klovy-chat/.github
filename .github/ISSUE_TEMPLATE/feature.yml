@@ -1,0 +1,26 @@
+name: Feature request
+description: Request a feature
+type: Feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Think you've got a good feature? Suggest it below.
+  - type: dropdown
+    id: repo
+    attributes:
+      label: Repository
+      options:
+        - backend
+        - frontend
+        - website
+        - application
+        - organisation / other
+    validations:
+      required: true
+  - type: textarea
+    id: feature-request
+    attributes:
+      label: Describe your feature
+    validations:
+      required: true
