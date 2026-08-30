@@ -47,7 +47,3 @@ Core service that powers Klovy Chat:
 Issues and pull requests are welcome. By submitting a contribution you accept the [Klovy License](https://github.com/klovy-chat/backend/blob/main/LICENSE) (including contribution terms).
 
 Do not open a public issue for security bugs — use [GitHub Security Advisories](https://github.com/klovy-chat/backend/security/advisories/new).
-
-## License
-
-[Klovy License](https://github.com/klovy-chat/backend/blob/main/LICENSE) © 2026 Jakub Maksymowicz.
